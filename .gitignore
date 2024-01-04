@@ -1,3 +1,9 @@
+# Shell files
+*.sh
+
+# Bin folders
+*/bin/*
+
 # Compiled source #
 ###################
 *.com
