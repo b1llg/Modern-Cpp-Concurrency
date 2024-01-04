@@ -1,5 +1,6 @@
 # Shell files
 *.sh
+*.*.sh
 
 # Bin folders
 */bin/*
