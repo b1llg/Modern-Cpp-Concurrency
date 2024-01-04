@@ -5,7 +5,7 @@
 */bin/*
 
 # Debug folder
-/.vscode/*
+.vscode/*
 
 # # Makefiles
 # Makefile
