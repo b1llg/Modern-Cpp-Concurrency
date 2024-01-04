@@ -5,6 +5,9 @@
 # Bin folders
 */bin/*
 
+# Makefiles
+Makefile
+
 # Compiled source #
 ###################
 *.com
