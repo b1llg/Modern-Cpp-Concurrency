@@ -9,23 +9,23 @@ void sleep(int time)
 
 void clean()
 {
-    std::cout << "cleaning...\n";
+    std::cout << "\t\tcleaning...\n";
     sleep(2000);
-    std::cout << "done cleaning!\n";
+    std::cout << "\t\tdone cleaning!\n";
 }
 
 void fullSpeed()
 {
-    std::cout << "full speed...\n";
+    std::cout << "\t\tfull speed...\n";
     sleep(2000);
-    std::cout << "done full speed!\n";
+    std::cout << "\t\tdone full speed!\n";
 }
 
 void stop()
 {
-    std::cout << "stop...\n";
+    std::cout << "\t\tstopping...\n";
     sleep(2000);
-    std::cout << "done stop!\n";
+    std::cout << "\t\tdone stopping!\n";
 }
 
 int main()
